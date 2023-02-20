@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Face Oils &#8211; MY COSMETIC</title>
+	<atom:link href="http://https://github.com/Tinhle03/project1.github.io.git/tu-khoa-san-pham/face-oils/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://github.com/Tinhle03/project1.github.io.git</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Feb 2023 11:27:58 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>http://https://github.com/Tinhle03/project1.github.io.git/wp-content/uploads/2021/12/favicon.png</url>
+	<title>Face Oils &#8211; MY COSMETIC</title>
+	<link>http://https://github.com/Tinhle03/project1.github.io.git</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>100% Organic Cold-Pressed Moroccan Argan Oil</title>
+		<link>http://https://github.com/Tinhle03/project1.github.io.git/san-pham/100-organic-cold-pressed-moroccan-argan-oil/</link>
+					<comments>http://https://github.com/Tinhle03/project1.github.io.git/san-pham/100-organic-cold-pressed-moroccan-argan-oil/#respond</comments>
+		
+		<dc:creator><![CDATA[Tinh Le]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2023 10:54:02 +0000</pubDate>
+				<guid isPermaLink="false">http://https://github.com/Tinhle03/project1.github.io.git/?post_type=product#038;p=442</guid>
+
+					<description><![CDATA[Argania Spinosa Kernel Oil.]]></description>
+										<content:encoded><![CDATA[<p><b>What it is: </b>A daily support formula for hair and skin.</p>
+<p><b>Skin Type: </b>Dry</p>
+<p><b>Skincare Concerns: </b>Dryness</p>
+<p><b>Formulation: </b>Lightweight Oil</p>
+<p><b>Ingredient Callouts:</b> Free of parabens. This product is also vegan, cruelty-free, and gluten-free.</p>
+<p><b>What Else You Need to Know: </b>This formulation uses 100 percent pure Moroccan argan seed oil extracted through a cold pressing that preserves the integrity of the oil&#8217;s fatty acids, vitamins, phenols (including caffeic acid), and carotenes. The oil supports healthy skin and reduces the appearance of flaking.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://github.com/Tinhle03/project1.github.io.git/san-pham/100-organic-cold-pressed-moroccan-argan-oil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
